@@ -8,7 +8,7 @@ gems: [jekyll-gist,jekyll-paginate]
 permalink:        pretty
 
 # Setup
-title:            Danielle's Website
+title:            Danielle's Detours
 tagline:          'Summer quarter 2016'
 description:      'A high level view of digital journalism practice, summer 2016 edition.'
 url:              http://digitalframeworks.github.io
