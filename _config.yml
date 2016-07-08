@@ -1,5 +1,5 @@
 # Dependencies
-highlighter:      rouge
+highlighter:      'rouge'
 
 # Config
 gems: [jekyll-gist,jekyll-paginate]
